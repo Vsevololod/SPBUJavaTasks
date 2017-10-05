@@ -12,6 +12,7 @@ public class EuclidTest {
     public static Object[][] createCorrectData() {
         return new Object[][]{
                 new Object[]{30, 36, 6},
+                new Object[]{45, -15, 15},
                 new Object[]{50, 25, 25}
         };
     }
